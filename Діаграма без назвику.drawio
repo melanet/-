@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3" pages="3">
   <diagram name="послідовність кіраль" id="m0Jdn7BrPaSw2eTVygUn">
-    <mxGraphModel dx="1643" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,6 +237,552 @@
             <mxPoint x="1113" y="1490" as="sourcePoint" />
             <mxPoint x="800" y="1490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Lx1eiAo7T4n6OlGmyCyc" name="нова послідовність">
+    <mxGraphModel dx="1744" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-1" value="Викладач" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="35" height="1445" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-2" value="Учень" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="35" height="1445" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-3" value="Освітня система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="699" y="20" width="150" height="1445" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-4" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="70" y="127" width="10" height="628" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="75" y="209" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-6" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="75" y="313" width="10" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="75" y="507" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="75" y="611" width="10" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="75" y="909" width="10" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry x="85" y="1177" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-11" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0" vertex="1" parent="1">
+          <mxGeometry x="84" y="95" width="939" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-12" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-11">
+          <mxGeometry width="939" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-13" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0" vertex="1" parent="1">
+          <mxGeometry x="84" y="475" width="875" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-14" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-13">
+          <mxGeometry width="875" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-15" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0" vertex="1" parent="1">
+          <mxGeometry x="84" y="795" width="881" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-16" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-15">
+          <mxGeometry width="881" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-17" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0" vertex="1" parent="1">
+          <mxGeometry x="84" y="1063" width="910" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-18" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="CwDHz_A--QLnauNxk6iQ-17">
+          <mxGeometry width="910" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-19" value="(1) Завантажує презентацію уроку" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-1" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-20" value="(2) Аналізує презентацію (визначає тему, складність, граматику)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-4" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="829" y="199" />
+              <mxPoint x="829" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-21" value="(3) Пропонує автоматично сформовані теги, тему і прив’язку до розділу" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-4" target="CwDHz_A--QLnauNxk6iQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="444" y="281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-22" value="(4) Додає завдання через конструктор" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-1" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-23" value="(5) Зберігає урок у базі даних" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-4" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="834" y="385" />
+              <mxPoint x="834" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-24" value="(6) Призначає урок учням" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-1" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="527" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-25" value="(7) Надсилає матеріали уроку та індивідуальні завдання" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-4" target="CwDHz_A--QLnauNxk6iQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-26" value="(8) Виконує завдання" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-2" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="631" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-27" value="(9) Аналізує виконання, відслідковує прогрес" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-4" target="CwDHz_A--QLnauNxk6iQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="834" y="683" />
+              <mxPoint x="834" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-28" value="(10) Надсилає рекомендації та зворотний зв&#39;язок" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-4" target="CwDHz_A--QLnauNxk6iQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="544" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-29" value="(11) Завантажує фотографію матеріалів з уроку" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-1" target="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="847" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-30" value="(12) Розпізнає текст, створює домашні завдання" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-9" target="CwDHz_A--QLnauNxk6iQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="829" y="899" />
+              <mxPoint x="829" y="929" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-31" value="(13) Пропонує список вправ на основі розпізнаного тексту" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-9" target="CwDHz_A--QLnauNxk6iQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="444" y="981" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-32" value="(14) Корегує вправи або час на виконання завдань" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-1" target="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-33" value="(15) Завершує домашнє завдання" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-2" target="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="1115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-34" value="(16) Перевіряє та оновлює індивідуальний план учня" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-10" target="CwDHz_A--QLnauNxk6iQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="839" y="1167" />
+              <mxPoint x="839" y="1197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-35" value="(17) Генерує звіт про прогрес учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-3" target="CwDHz_A--QLnauNxk6iQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="444" y="1249" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-36" value="(18) Встановлює нові цілі для учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="CwDHz_A--QLnauNxk6iQ-1" target="CwDHz_A--QLnauNxk6iQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="1301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwDHz_A--QLnauNxk6iQ-37" value="Система підтримує командні завдання, інтерактивні сценарії та гейміфікацію." style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1331" width="729" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8TE1GhnUZqSJfclcCguz" name="Page-3">
+    <mxGraphModel dx="1744" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-71" value="Викладач" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="35" height="2143" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-72" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-71">
+          <mxGeometry x="12.5" y="127" width="10" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-73" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-71">
+          <mxGeometry x="12.5" y="521" width="10" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-74" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-71">
+          <mxGeometry x="12.5" y="1071" width="10" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-75" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-71">
+          <mxGeometry x="12.5" y="1777" width="10" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-76" value="Учень" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="286" y="20" width="35" height="2143" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-77" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-76">
+          <mxGeometry x="12.5" y="677" width="10" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-78" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-76">
+          <mxGeometry x="12.5" y="1465" width="10" height="406" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-79" value="Освітня система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="773" y="20" width="150" height="2143" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-80" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry x="70" y="127" width="10" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-81" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry x="75" y="521" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-82" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry x="75" y="729" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-83" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry x="75" y="1071" width="10" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-84" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry x="80" y="1465" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-85" value="Штучний Інтелект" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1387" y="20" width="151" height="2143" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-86" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-85">
+          <mxGeometry x="71" y="179" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-87" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-85">
+          <mxGeometry x="71" y="781" width="10" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-88" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-85">
+          <mxGeometry x="71" y="1123" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-89" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-85">
+          <mxGeometry x="71" y="1517" width="10" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-90" value="База Даних" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1732" y="20" width="150" height="2143" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-91" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-90">
+          <mxGeometry x="70" y="387" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-92" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-90">
+          <mxGeometry x="70" y="573" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-93" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-90">
+          <mxGeometry x="70" y="885" width="10" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-94" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-90">
+          <mxGeometry x="70" y="1331" width="10" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-95" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-90">
+          <mxGeometry x="70" y="1621" width="10" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-96" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-90">
+          <mxGeometry x="70" y="1829" width="10" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-97" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="95" width="1742" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-98" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-97">
+          <mxGeometry width="1742" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-99" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="489" width="1742" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-100" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-99">
+          <mxGeometry width="1742" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-101" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1039" width="1742" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-102" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-101">
+          <mxGeometry width="1742" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-103" value="" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1433" width="1742" height="488" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-104" value="" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="lfYQY-S1tvil1wnu-qkU-103">
+          <mxGeometry width="1742" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-105" value="(1) Запит на завантаження презентації уроку" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-72" target="lfYQY-S1tvil1wnu-qkU-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-106" value="(2) Запит на аналіз презентації (визначення теми, складності, граматики)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-80" target="lfYQY-S1tvil1wnu-qkU-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1164" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-107" value="(3) Повертає метадані (теми, складність, рекомендації)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-85" target="lfYQY-S1tvil1wnu-qkU-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1167" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-108" value="(4) Пропонує автоматично сформовані теги, тему і прив’язку до розділу" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-80" target="lfYQY-S1tvil1wnu-qkU-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="483" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-109" value="(5) Запит на додавання завдань через конструктор" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-72" target="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-110" value="(6) Запит на збереження уроку у базі даних" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-79" target="lfYQY-S1tvil1wnu-qkU-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1336" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-111" value="(7) Підтвердження збереження" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-90" target="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1339" y="459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-112" value="(8) Запит на призначення уроку учням" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-73" target="lfYQY-S1tvil1wnu-qkU-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-113" value="(9) Запит на отримання даних про учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-81" target="lfYQY-S1tvil1wnu-qkU-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1338" y="593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-114" value="(10) Повертає дані учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-90" target="lfYQY-S1tvil1wnu-qkU-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1341" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-115" value="(11) Надсилає матеріали уроку та індивідуальні завдання" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-81" target="lfYQY-S1tvil1wnu-qkU-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-116" value="(12) Запит на виконання завдань" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-77" target="lfYQY-S1tvil1wnu-qkU-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="613" y="749" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-117" value="(13) Запит на аналіз виконання завдань і прогресу учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-82" target="lfYQY-S1tvil1wnu-qkU-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1166" y="801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-118" value="(14) Повертає результати аналізу" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-85" target="lfYQY-S1tvil1wnu-qkU-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1169" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-119" value="(15) Запит на оновлення прогресу учнів у базі даних" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-82" target="lfYQY-S1tvil1wnu-qkU-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1338" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-120" value="(16) Підтвердження оновлення" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-90" target="lfYQY-S1tvil1wnu-qkU-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1341" y="957" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-121" value="(17) Надсилає рекомендації та зворотний зв&#39;язок" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-79" target="lfYQY-S1tvil1wnu-qkU-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="616" y="1009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-122" value="(18) Запит на завантаження фотографії матеріалів уроку" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-74" target="lfYQY-S1tvil1wnu-qkU-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="1091" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-123" value="(19) Запит на розпізнавання тексту і створення домашніх завдань" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-83" target="lfYQY-S1tvil1wnu-qkU-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1166" y="1143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-124" value="(20) Повертає список завдань" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-85" target="lfYQY-S1tvil1wnu-qkU-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1169" y="1195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-125" value="(21) Пропонує список вправ на основі розпізнаного тексту" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-83" target="lfYQY-S1tvil1wnu-qkU-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="483" y="1247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-126" value="(22) Запит на корегування вправ або часу на виконання завдань" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-74" target="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="1299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-127" value="(23) Запит на оновлення домашнього завдання у базі даних" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-79" target="lfYQY-S1tvil1wnu-qkU-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1338" y="1351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-128" value="(24) Підтвердження оновлення" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-90" target="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1341" y="1403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-129" value="(25) Запит на завершення домашнього завдання" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-78" target="lfYQY-S1tvil1wnu-qkU-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="1485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-130" value="(26) Запит на перевірку завдання і оновлення індивідуального плану учня" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-84" target="lfYQY-S1tvil1wnu-qkU-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1169" y="1537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-131" value="(27) Повертає результати перевірки та рекомендації" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-85" target="lfYQY-S1tvil1wnu-qkU-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1172" y="1589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-132" value="(28) Запит на оновлення плану учня у базі даних" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-84" target="lfYQY-S1tvil1wnu-qkU-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1341" y="1641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-133" value="(29) Підтвердження оновлення" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-90" target="lfYQY-S1tvil1wnu-qkU-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1344" y="1693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-134" value="(30) Генерує звіт про прогрес учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-79" target="lfYQY-S1tvil1wnu-qkU-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="481" y="1745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-135" value="(31) Запит на встановлення нових цілей для учнів" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-75" target="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="1797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-136" value="(32) Запит на оновлення цілей у базі даних" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-79" target="lfYQY-S1tvil1wnu-qkU-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1341" y="1849" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-137" value="(33) Підтвердження оновлення" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=14;" edge="1" parent="1" source="lfYQY-S1tvil1wnu-qkU-90" target="lfYQY-S1tvil1wnu-qkU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1344" y="1901" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-138" value="Викладач і учень активні під час взаємодій із системою." style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="959" y="2140" width="386" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-139" value="Система активно використовує ШІ для аналізу, генерації завдань і перевірки прогресу." style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="807" y="2200" width="665" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="lfYQY-S1tvil1wnu-qkU-140" value="База даних забезпечує збереження всіх матеріалів, результатів і планів учнів." style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="2260" width="1010" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
